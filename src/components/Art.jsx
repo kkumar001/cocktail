@@ -37,7 +37,8 @@ const Art = () => {
                 duration: 1,
                 ease: 'power1.inOut'
             })
-    })
+    });
+
     return (
         <div id='art'>
             <div className='container mx-auto pt-20 w-full'>
